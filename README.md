@@ -66,6 +66,10 @@ to the simulated agent.
 
 Evidence (full state and audit log of each run) is written to `docs/scenarios/`.
 
+Note: the scenario runs use the deterministic simulated agent, which does not fail, so retry,
+rollback and MTTR metrics are zero or null in the recorded evidence. Those paths are covered by
+the automated tests (see docs/ARCHITECTURE.md, section 6).
+
 ## Project layout
 
 ```
