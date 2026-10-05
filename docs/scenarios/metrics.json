@@ -1,0 +1,15 @@
+{
+    "totalRuns": 4,
+    "done": 3,
+    "failed": 0,
+    "stopped": 1,
+    "inProgress": 0,
+    "successRate": 0.75,
+    "stageRetries": 0,
+    "rollbacks": 0,
+    "policyViolations": 0,
+    "approvals": 7,
+    "rejections": 1,
+    "mttrMillis": null,
+    "avgEndToEndMillis": 52.333333333333336
+}
